@@ -1,0 +1,6 @@
+{
+    "LOGIN_SELECTOR": "#id_userLoginId",
+    "PASSWORD_SELECTOR": "#id_password",
+    "LOGIN_BUTTON_SELECTOR": ".login-button",
+    "PRIMARY_PROFILE_LINK_SELECTOR": ".profile"
+}
