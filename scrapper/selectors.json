@@ -2,5 +2,8 @@
     "LOGIN_SELECTOR": "#id_userLoginId",
     "PASSWORD_SELECTOR": "#id_password",
     "LOGIN_BUTTON_SELECTOR": ".login-button",
-    "PRIMARY_PROFILE_LINK_SELECTOR": ".profile"
+    "PRIMARY_PROFILE_LINK_SELECTOR": ".profile",
+    "PROFILES_GATE_CONTAINER_SELECTOR": "profiles-gate-container",
+    "CATEGORY_DROP_DOWN_SELECTOR": ".categoryDropDown",
+    "LANGUAGE_DROP_DOWN_SELECTOR": ".languageDropDown"
 }
